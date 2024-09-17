@@ -32,7 +32,7 @@ Leia as instruções no arquivo [CONTRIBUTING.md](./CONTRIBUTING.md) para saber 
 
 ## Licença
 
-Este projeto está licenciado sob a Licença Creative Commons, conforme descrito no arquivo [LICENSE](./LICENSE.md).
+Este projeto está licenciado sob a Licença Creative Commons, conforme descrito no arquivo [LICENSE.md](./LICENSE.md).
 
 ## Autores
 
