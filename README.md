@@ -28,11 +28,25 @@ A apresentação está disponível no formato PDF [neste link](./apresentacao.pd
 
 ## Como Contribuir
 
-Leia as instruções no arquivo [CONTRIBUTING.md](./CONTRIBUTING.md) para saber como colaborar com este repositório.
+1. **Fork este repositório**: Crie uma cópia do repositório na sua conta do GitHub.
+   
+3. **Clone o repositório**: Clone o fork para a sua máquina local.
+   ```bash
+   git clone https://github.com/seu-usuario/SeinarioMobile-Webservices.git
+  
+4. **Crie um branch para a sua contribuição**
+   ```bash
+   git checkout -b minha-contribuicao
+  
+5. **Faça commit das suas mudanças**
+   ```bash
+   git commit -m "Exemplo de commit"
+   
+6. **Envie para o GitHub**
+   ```bash
+   git push origin minha-contribuicao
 
 ## Licença
-
-Este projeto está licenciado sob a Licença Creative Commons, conforme descrito no arquivo [LICENSE](./LICENSE).
 
 Creative Commons Attribution 4.0 International License
 
@@ -46,12 +60,12 @@ Sob os seguintes termos:
 
 Para mais informações, veja [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
-
-##
-
 ## Autores
 
-- **Álvaro** - Scrum Master
+- **Álvaro Jordão** - Analista desenvolvedor (codificador)
+- **Victor Emery** - Gerente de configuração (git e ambiente de desenvolvimento)
+- **Arthur Miguel** - Analista de dados e negócio (documentação)
+- **Ítalo Waldecy** - Scrum Master (definição do cronograma, agenda, tarefas, produção de relatórios)
 - [Outros membros do grupo]
 
   
