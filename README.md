@@ -1,27 +1,58 @@
-# SeminarioMobileWebservices
+# Seminário: Webservices e Protocolos REST
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.4.
+Este repositório contém a apresentação do seminário sobre Webservices, abordando os conceitos de protocolo REST, as diferenças entre REST e RESTful, e a utilização de verbos HTTP. Também incluímos exemplos práticos e definições para ajudar no entendimento.
 
-## Development server
+## Tópicos Abordados
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+1. **Webservices**
+   - Definição e conceito
+   - Tipos de Webservices
+   - Importância e uso no mercado
 
-## Code scaffolding
+2. **Protocolo REST**
+   - Definição e características
+   - Arquitetura REST
+   - Elementos principais (Recursos, URIs)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+3. **REST vs RESTful**
+   - Diferenças entre REST e RESTful
+   - Princípios RESTful
 
-## Build
+4. **Verbos HTTP**
+   - GET, POST, PUT, DELETE, PATCH
+   - Exemplos práticos de uso
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Apresentação
 
-## Running unit tests
+A apresentação está disponível no formato PDF [neste link](./apresentacao.pdf).
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Como Contribuir
 
-## Running end-to-end tests
+Leia as instruções no arquivo [CONTRIBUTING.md](./CONTRIBUTING.md) para saber como colaborar com este repositório.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Licença
 
-## Further help
+Este projeto está licenciado sob a Licença Creative Commons, conforme descrito no arquivo [LICENSE](./LICENSE).
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Creative Commons Attribution 4.0 International License
+
+Você tem a liberdade de:
+- Compartilhar — copiar e redistribuir o material em qualquer meio ou formato
+- Adaptar — remixar, transformar, e construir sobre o material para qualquer fim, mesmo que comercial.
+
+Sob os seguintes termos:
+- Atribuição — Você deve dar o crédito apropriado, fornecer um link para a licença, e indicar se mudanças foram feitas. Você pode fazê-lo de qualquer maneira razoável, mas não de forma que sugira que o licenciador endossa você ou seu uso.
+- Sem restrições adicionais — Você não pode aplicar termos jurídicos ou medidas tecnológicas que restrinjam legalmente outros de fazerem qualquer coisa que a licença permita.
+
+Para mais informações, veja [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
+
+
+##
+
+## Autores
+
+- **Álvaro** - Scrum Master
+- [Outros membros do grupo]
+
+  
+
