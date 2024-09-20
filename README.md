@@ -40,6 +40,3 @@ Este projeto está licenciado sob a Licença Creative Commons, conforme descrito
 - **Victor Emery** - Gerente de configuração (git e ambiente de desenvolvimento)
 - **Arthur Miguel** - Analista de dados e negócio (documentação)
 - **Ítalo Waldecy** - Scrum Master (definição do cronograma, agenda, tarefas, produção de relatórios)
-
-  
-
