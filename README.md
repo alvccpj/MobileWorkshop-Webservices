@@ -24,7 +24,7 @@ Este repositório contém a apresentação do seminário sobre Webservices, abor
 
 ## Apresentação
 
-A apresentação está disponível no formato PDF [neste link](./apresentacao.pdf).
+A apresentação está disponível no formato PDF [neste link](./seminario-mobile.pdf).
 
 ## Como Contribuir
 
