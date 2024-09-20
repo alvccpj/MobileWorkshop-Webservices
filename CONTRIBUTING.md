@@ -4,7 +4,7 @@
    
 3. **Clone o repositório**: Clone o fork para a sua máquina local.
    ```bash
-   git clone https://github.com/seu-usuario/SeinarioMobile-Webservices.git
+   git clone https://github.com/seu-usuario/MobileWorkshop-Webservices.git
   
 4. **Crie um branch para a sua contribuição**
    ```bash
