@@ -34,9 +34,6 @@ Leia as instruções no arquivo [CONTRIBUTING.md](./CONTRIBUTING.md) para saber 
 
 Este projeto está licenciado sob a Licença Creative Commons, conforme descrito no arquivo [LICENSE.md](./LICENSE.md).
 
-## Autores
+## Autor
 
-- **Álvaro Jordão** - Analista desenvolvedor (codificador)
-- **Victor Emery** - Gerente de configuração (git e ambiente de desenvolvimento)
-- **Arthur Miguel** - Analista de dados e negócio (documentação)
-- **Ítalo Waldecy** - Scrum Master (definição do cronograma, agenda, tarefas, produção de relatórios)
+- **Álvaro Jordão** 
